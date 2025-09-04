@@ -33,7 +33,7 @@ I’m a Computer Science student from the Bay Area with a strong interest in **A
 
 ### 🚀 Projects
 
-* **AI Code Scribe (Claude API + Python):** Built an assistant that transforms conversations into structured documentation and SOAP notes for healthcare workflows.
+* **Degree Audit Tracker (Claude API + Python):** Built an application that helps students ensure their major, minor, and concentration requirements are met.
 * **AI Wordle Game (Pygame):** Designed an interactive Wordle clone enhanced with AI-driven hints.
 * **Spelling Bee Puzzle (Java):** Developed a full-featured game with validation, scoring, and UI integration.
 * **Virtual Calendar (Java):** Command-line calendar with recurring events, editing, and querying support.
