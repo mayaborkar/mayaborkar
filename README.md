@@ -8,7 +8,7 @@ I’m a Computer Science student from the Bay Area with a strong interest in **A
 
 ### 🛠️ Tech & Tools
 
-* **Languages:** Python, Java, JavaScript, C++
+* **Languages:** Python, Java, JavaScript, HTML
 * **Frameworks & Libraries:** Pygame, Pycharm
 * **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Figma, Claude API, OpenAI API
 
